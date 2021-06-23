@@ -20,7 +20,7 @@ function resetForm() {
 // create a function to reset the table to default
 function resetTable() {
 
-    // clear the current data
+    // clear the current data - clearTable and resetForm
     clearTable();
     resetForm();
 
